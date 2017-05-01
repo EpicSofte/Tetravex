@@ -1,0 +1,10 @@
+Tetravex
+is a little puzzel with  number betwween 0-9
+
+you must put tiles on the boardand that all tiles are connected
+by one number
+
+to lauche the programe Do:
+make
+./epivex -s sizeyouwant -o filename
+./epivex -i filename -o filename to get the solutions
